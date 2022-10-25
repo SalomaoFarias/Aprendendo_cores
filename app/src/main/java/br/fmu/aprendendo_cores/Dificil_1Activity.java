@@ -18,7 +18,7 @@ public class Dificil_1Activity extends AppCompatActivity {
         setContentView(R.layout.activity_dificil1);
 
         /* Imagem da seta pra esquerda */
-        voltarMenu2 = findViewById(R.id.voltarMenu);
+        voltarMenu2 = findViewById(R.id.voltarConfig);
 
         // Troca para a tela Menu
         voltarMenu2.setOnClickListener(new View.OnClickListener(){
